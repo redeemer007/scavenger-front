@@ -1,0 +1,639 @@
+[
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Badlapur",
+        "address": "Platform Number 9 3/4 ",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9831670869",
+            "24896229"
+        ],
+        "branchIncharge": "Mr Kung fu Pandey",
+        "pincodeCovered": [
+            "700018",
+            "700024",
+            "700044",
+            "700066"
+        ],
+        "password": "password0"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Wasseypur",
+        "address": "Platform Number 9 3/5",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9830587378"
+        ],
+        "branchIncharge": "Mr Kejriwal",
+        "pincodeCovered": [
+            "711103",
+            "711109"
+        ],
+        "password": "password1"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Sundarnagar",
+        "address": "Platform Number 9 3/6",
+        "city": "Pasadena",
+        "contactNumber": [
+            "22695777",
+            "9330854205"
+        ],
+        "branchIncharge": "Mr Yadav",
+        "pincodeCovered": [
+            "700007"
+        ],
+        "password": "password2"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Mordor",
+        "address": "Platform Number 9 3/7",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339149816"
+        ],
+        "branchIncharge": "Mr Charles Goodwin",
+        "pincodeCovered": [
+            "700059",
+            "700052",
+            "700159",
+            "700136",
+            "700157",
+            "700135"
+        ],
+        "password": "password3"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Shire",
+        "address": "Platform Number 9 3/8",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9836675966"
+        ],
+        "branchIncharge": "Mr Barry Richardds",
+        "pincodeCovered": [
+            "700008",
+            "700063",
+            "700061",
+            "700060",
+            "700034",
+            "700038",
+            "700058"
+        ],
+        "password": "password4"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Osgilliath",
+        "address": "Platform Number 9 3/9",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9330744663",
+            "32612545",
+            "24867225"
+        ],
+        "branchIncharge": "Mr Anrold Schwartzenegger",
+        "pincodeCovered": [
+            "700025",
+            "700020"
+        ],
+        "password": "password5"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Gondor",
+        "address": "Platform Number 9 3/10",
+        "city": "Pasadena",
+        "contactNumber": [
+            "22256975",
+            "9331406092"
+        ],
+        "branchIncharge": "Mr Vinod Kambli",
+        "pincodeCovered": [
+            "700001",
+            "700012",
+            "700073"
+        ],
+        "password": "password6"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Rohan",
+        "address": "Platform Number 9 3/11",
+        "city": "Pasadena",
+        "contactNumber": [
+            "22435157",
+            "30281570",
+            "8961369388"
+        ],
+        "branchIncharge": "Mr Roast Master",
+        "pincodeCovered": [
+            "700069",
+            "700072",
+            "700013",
+            "700001",
+            "700069"
+        ],
+        "password": "password7"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Chinchpokli",
+        "address": "Platform Number 9 3/22",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9088126251"
+        ],
+        "branchIncharge": "Mr PK",
+        "pincodeCovered": [
+            "700087",
+            "700013",
+            "700069",
+            "700016"
+        ],
+        "password": "password8"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Chiplun",
+        "address": "Platform Number 9 3/23",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9330660677",
+            "033-30683692"
+        ],
+        "branchIncharge": "Mr Ranchodas Syamaldas Chhanchad",
+        "pincodeCovered": [
+            "700007",
+            "700006"
+        ],
+        "password": "password9"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Kargil",
+        "address": "Platform Number 9 3/24",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-26774547",
+            "9339411467"
+        ],
+        "branchIncharge": "Mr Amar",
+        "pincodeCovered": [
+            "711113",
+            "711105",
+            "711101"
+        ],
+        "password": "password10"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "LOC",
+        "address": "Platform Number 9 3/25",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339149802"
+        ],
+        "branchIncharge": "Mr Prem",
+        "pincodeCovered": [
+            "700026",
+            "700033",
+            "700045",
+            "700095",
+            "700040",
+            "700047",
+            "700032",
+            "700041",
+            "700082",
+            "700093",
+            "700070",
+            "700084",
+            "700086",
+            "700092",
+            "700094",
+            "700096",
+            "700099"
+        ],
+        "password": "password11"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "LAC",
+        "address": "Platform Number 9 3/26",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339970924"
+        ],
+        "branchIncharge": "Mr Crime Master Gogo",
+        "pincodeCovered": [
+            "700085",
+            "700010",
+            "700011",
+            "700015",
+            "700054"
+        ],
+        "password": "password12"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Mandwa",
+        "address": "Platform Number 9 3/27",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339970936"
+        ],
+        "branchIncharge": "Mr Teja Main Hoon",
+        "pincodeCovered": [
+            "700023",
+            "700045"
+        ],
+        "password": "password13"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Chennai Xpress",
+        "address": "Platform Number 9 3/28",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339466021"
+        ],
+        "branchIncharge": "Mr Anand Akela",
+        "pincodeCovered": [
+            "700089",
+            "700048",
+            "700055",
+            "7000101",
+            "700102"
+        ],
+        "password": "password14"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Mocambo's Cave",
+        "address": "Platform Number 9 3/29",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-22156404"
+        ],
+        "branchIncharge": "Mr Raveena Urf Karishna",
+        "pincodeCovered": [
+            "700013"
+        ],
+        "password": "password15"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Gabbar's Plateau",
+        "address": "Platform Number 9 3/30",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339970934"
+        ],
+        "branchIncharge": "Ms Karishma Urf Ravina",
+        "pincodeCovered": [
+            "711107",
+            "711204",
+            "711202",
+            "711201"
+        ],
+        "password": "password16"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Kasaul",
+        "address": "Platform Number 9 3/31",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-22192333",
+            "9331086356"
+        ],
+        "branchIncharge": "Mr Robert",
+        "pincodeCovered": [
+            "700073",
+            "700009"
+        ],
+        "password": "password17"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Manaal",
+        "address": "Platform Number 9 3/32",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-22352320",
+            "9830219907"
+        ],
+        "branchIncharge": "Mr Bhalla",
+        "pincodeCovered": [
+            "700007"
+        ],
+        "password": "password18"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Sergeant at Arms",
+        "address": "Platform Number 9 3/33",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339149811"
+        ],
+        "branchIncharge": "Mr Pappu Gandhi",
+        "pincodeCovered": [
+            "700014",
+            "700046"
+        ],
+        "password": "password19"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Krispy Chilly",
+        "address": "Platform Number 9 3/34",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339970931"
+        ],
+        "branchIncharge": "Mr Kim Chee Salad",
+        "pincodeCovered": [
+            "700001"
+        ],
+        "password": "password20"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Dove 3/4th Mois",
+        "address": "Platform Number 9 3/35",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339930423"
+        ],
+        "branchIncharge": "Mr Jai Singh",
+        "pincodeCovered": [
+            "700074",
+            "700055",
+            "700028",
+            "700080",
+            "700081",
+            "700079",
+            "700051",
+            "700052"
+        ],
+        "password": "password21"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Mclaren's",
+        "address": "Platform Number 9 3/36",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339149818"
+        ],
+        "branchIncharge": "Ms Basanti",
+        "pincodeCovered": [
+            "700053"
+        ],
+        "password": "password22"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Capitol Building",
+        "address": "Platform Number 9 3/37",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339791567"
+        ],
+        "branchIncharge": "Dr Garbage Bin",
+        "pincodeCovered": [
+            "700053"
+        ],
+        "password": "password23"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "West Wing",
+        "address": "Platform Number 9 3/38",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-32590307"
+        ],
+        "branchIncharge": "Dr Shedlon Cooper",
+        "pincodeCovered": [
+            "700017",
+            "700039",
+            "700016",
+            "700100",
+            "700105"
+        ],
+        "password": "password24"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Freddy's place",
+        "address": "Platform Number 9 3/39",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339970939"
+        ],
+        "branchIncharge": "Dr Rowdy Rathore",
+        "pincodeCovered": [
+            "700001",
+            "700012"
+        ],
+        "password": "password25"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "The Cheesecake Factory",
+        "address": "Platform Number 9 3/40",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-22597892"
+        ],
+        "branchIncharge": "Mr Rahul (naam to suna hoga)",
+        "pincodeCovered": [
+            "700007"
+        ],
+        "password": "password26"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Sheldon's Time Machine",
+        "address": "Platform Number 9 3/41",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9339149803"
+        ],
+        "branchIncharge": "MrTeja (Mark idhar hai)",
+        "pincodeCovered": [
+            "700006",
+            "700007"
+        ],
+        "password": "password27"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Penny's apartment",
+        "address": "Platform Number 9 3/42",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-22192458",
+            "7439412862"
+        ],
+        "branchIncharge": "Mr Deepak Chourasia",
+        "pincodeCovered": [
+            "700007",
+            "700006"
+        ],
+        "password": "password28"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Starbucks",
+        "address": "Platform Number 9 3/43",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-26753836",
+            "9339149814"
+        ],
+        "branchIncharge": "Mr AIB",
+        "pincodeCovered": [
+            "711106",
+            "711101"
+        ],
+        "password": "password29"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "The Brown Stone",
+        "address": "Platform Number 9 3/44",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9331010493"
+        ],
+        "branchIncharge": "Mr Yo Yo honey Singh",
+        "pincodeCovered": [
+            "700091",
+            "700064",
+            "700106"
+        ],
+        "password": "password30"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Christie's Den",
+        "address": "Platform Number 9 3/45",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-25302241",
+            "9339970941"
+        ],
+        "branchIncharge": "Mr Piku",
+        "pincodeCovered": [
+            "700037",
+            "700002",
+            "700006",
+            "700004",
+            "700030"
+        ],
+        "password": "password31"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Summersault",
+        "address": "Platform Number 9 3/46",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9330001853"
+        ],
+        "branchIncharge": "Mr Ross Geller",
+        "pincodeCovered": [
+            "700110",
+            "700111",
+            "700112",
+            "700113",
+            "700114",
+            "700115",
+            "700116",
+            "700117",
+            "700118",
+            "700119"
+        ],
+        "password": "password32"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Kkkkkkiran's Nest",
+        "address": "Platform Number 9 3/47",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9830165441",
+            "033 22426744"
+        ],
+        "branchIncharge": "Ms Chanandler Bong",
+        "pincodeCovered": [
+            "700001"
+        ],
+        "password": "password33"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Las Vegas Boulevard",
+        "address": "Platform Number 9 3/48",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9330648535",
+            "9339246760"
+        ],
+        "branchIncharge": "Mr Ugly Naked Guy",
+        "pincodeCovered": [
+            "700019"
+        ],
+        "password": "password34"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Wynn Palace",
+        "address": "Platform Number 9 3/49",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9332984588"
+        ],
+        "branchIncharge": "Mr Red( Because I'm Irish)",
+        "pincodeCovered": [
+            "700007"
+        ],
+        "password": "password35"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Brooklyn Bridge",
+        "address": "Platform Number 9 3/50",
+        "city": "Pasadena",
+        "contactNumber": [
+            "9330172083"
+        ],
+        "branchIncharge": "Ms Monica Obsessive Geller",
+        "pincodeCovered": [
+            "700002"
+        ],
+        "password": "password36"
+    },
+    {
+        "institutionName": "Beetle Nut",
+        "branchName": "Times Square",
+        "address": "Platform Number 9 3/51",
+        "city": "Pasadena",
+        "contactNumber": [
+            "033-30622420",
+            "8420062681"
+        ],
+        "branchIncharge": "Ms Phoebe Hyper Buffay",
+        "pincodeCovered": [
+            "700007"
+        ],
+        "password": "password37"
+    }
+]
