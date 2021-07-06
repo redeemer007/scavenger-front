@@ -110,6 +110,9 @@ io.on('connection', socket => {
 
 });
 
-server.listen(8082, function () {
-    console.log("server started")
+
+const port = process.env.PORT || 8082;
+server.listen(port, () => {
+  // console.log(`Server running at http://${hostname}:${port}/`);
+  console.log(`Server running at ${port}`);
 });
