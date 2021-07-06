@@ -4,23 +4,6 @@ const router = express.Router();
 
 const branches = require("../model/branchModel.js");
 
-// function dbConnect() {
-//     mongoose.connect(
-//         "mongodb://localhost:27017/scavenger",
-//         { useNewUrlParser: true },
-//         (error) => {
-//             if (!error) {
-//                 console.log("Success connected");
-//             } else {
-//                 console.log("Error connectiong to database");
-//             }
-//         }
-//     );
-// }
-// var app = express();
-// var http = require("http").createServer(app);
-// var io = require("socket.io")(http);
-
 function socketCall(fetchedPincode) {
     var app = express();
     //var http = require("http").createServer(app);
